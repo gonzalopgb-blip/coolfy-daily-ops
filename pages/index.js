@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 // URL de la API de Google Apps Script (configurar después del deploy)
-const API_URL = 'https://script.google.com/macros/library/d/1HrsqQ8s0p58l1tkPcTBHxEfU3fvN2_2d_TjboCi-hMvwHS73Q1qaoKj9/1';
+const API_URL = 'https://script.google.com/macros/s/AKfycbylnY8MrL0ZmVfmz4Dy1hz__GHWCeZqMsV66OsI75ix_mrvKqF1sC3q3qQ6q4_TP8s/exec';
 
 // Coolfy Brand Colors
 const colors = {
